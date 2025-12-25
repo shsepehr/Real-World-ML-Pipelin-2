@@ -1,0 +1,11 @@
+"CustomerID,,,,,,",age,Gender,salary,Spending_Score,Purchase_Frequency,Country,target
+10001,32,Male,52000,78,12,UK,1
+10002,45,Female,68000,52,8,Germany,0
+10003,27,Female,45000,91,15,France,0
+10004,39,Male,72000,5,5,USA,1
+10005,23,Male,38000,19,19,Italy,1
+10006,51,Female,85000,36,36,Spain,0
+10007,29,Female,49000,72,11,Canada,0
+10008,34,Male,61000,55,7,Australia,1
+10009,41,Female,78000,46,6,UK,1
+10010,30,Male,54000,14,14,Germany,1
